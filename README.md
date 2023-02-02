@@ -1,4 +1,4 @@
 # Folder_and_url_opener
-##Requirements
+Requirements
 maskpass (pip install maskpass)
 colorama (pip install colorama)

@@ -3,7 +3,7 @@ import base64
 from colorama import Fore, init
 import time
 import os
-init())
+init()
 print("If you want to lock a hidden folder, It is highly recommended to hide the folder using command prompt. See the tutorial here : https://bit.ly/3Iazjpb")
 time.sleep(3)
 print("\n\nYou can also use this app to open URLs that you want. These URLs will be opened in your default browser.")
